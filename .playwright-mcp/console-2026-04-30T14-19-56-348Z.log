@@ -1,0 +1,38 @@
+[    1010ms] [ERROR] Failed to load resource: net::ERR_TRUST_TOKEN_OPERATION_FAILED @ https://www.amazon.com/tt/i:0
+[    1225ms] [LOG] [NoriLogger] Initialized successfully @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:26
+[    1232ms] [ERROR] [NoriLogger] [WARN] DSPClientStrategy NoriLogger: Timer for fontsRender already exists. @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:10
+[    1290ms] [ERROR] [NoriLogger] [WARN] DSPClientStrategy NoriLogger: Timer for asinImageRender already exists. @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:10
+[    1296ms] [LOG] [NoriLogger] Initialized successfully @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:26
+[    1332ms] [ERROR] [SushiLogger] Logger not initialized, performance not logged for: asinImageRender @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:26
+[    1333ms] [ERROR] [SushiLogger] Logger not initialized, performance not logged for: asinImageRender @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:26
+[    1409ms] [ERROR] [SushiLogger] Logger not initialized, truncation not logged @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:26
+[    4150ms] [ERROR] Error logged with the Track&Report JS errors API(http://tiny/1covqr6l8/wamazindeClieUserJava): {"m":"Late loading module @m/mash","csm":"v5 ueLogError callee","logLevel":"WARN","attribution":"MIX","pageURL":"https://www.amazon.com/","s":[],"t":3930} {m: Late loading module @m/mash, name: undefined, type: undefined, csm: v5 ueLogError callee, logLevel: WARN} @ https://images-na.ssl-images-amazon.com/images/I/215h87l68bL.js:3
+[   10265ms] [ERROR] [NoriLogger] [WARN] DSPClientStrategy No events to send to endpoint @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:10
+[   10289ms] [ERROR] [NoriLogger] [WARN] DSPClientStrategy No events to send to endpoint @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:10
+[   11081ms] [ERROR] Failed to load resource: net::ERR_TRUST_TOKEN_OPERATION_FAILED @ https://www.amazon.com/tt/i:0
+[   11439ms] TypeError: b.cardModuleFactory is not a function
+    at https://m.media-amazon.com/images/I/51k9fvr+tML.js?AUIClients/CardJsRuntimeBuzzCopyBuild:17:429
+    at d (https://m.media-amazon.com/images/I/51k9fvr+tML.js?AUIClients/CardJsRuntimeBuzzCopyBuild:55:83)
+    at Object.next (https://m.media-amazon.com/images/I/51k9fvr+tML.js?AUIClients/CardJsRuntimeBuzzCopyBuild:53:369)
+    at m (https://m.media-amazon.com/images/I/51k9fvr+tML.js?AUIClients/CardJsRuntimeBuzzCopyBuild:53:152)
+[   11441ms] TypeError: b.cardModuleFactory is not a function
+    at https://m.media-amazon.com/images/I/51k9fvr+tML.js?AUIClients/CardJsRuntimeBuzzCopyBuild:17:429
+    at d (https://m.media-amazon.com/images/I/51k9fvr+tML.js?AUIClients/CardJsRuntimeBuzzCopyBuild:55:83)
+    at Object.next (https://m.media-amazon.com/images/I/51k9fvr+tML.js?AUIClients/CardJsRuntimeBuzzCopyBuild:53:369)
+    at m (https://m.media-amazon.com/images/I/51k9fvr+tML.js?AUIClients/CardJsRuntimeBuzzCopyBuild:53:152)
+[   11443ms] TypeError: b.cardModuleFactory is not a function
+    at https://m.media-amazon.com/images/I/51k9fvr+tML.js?AUIClients/CardJsRuntimeBuzzCopyBuild:17:429
+    at d (https://m.media-amazon.com/images/I/51k9fvr+tML.js?AUIClients/CardJsRuntimeBuzzCopyBuild:55:83)
+    at Object.next (https://m.media-amazon.com/images/I/51k9fvr+tML.js?AUIClients/CardJsRuntimeBuzzCopyBuild:53:369)
+    at m (https://m.media-amazon.com/images/I/51k9fvr+tML.js?AUIClients/CardJsRuntimeBuzzCopyBuild:53:152)
+[   12745ms] TypeError: b.cardModuleFactory is not a function
+    at https://m.media-amazon.com/images/I/51k9fvr+tML.js?AUIClients/CardJsRuntimeBuzzCopyBuild:17:429
+    at d (https://m.media-amazon.com/images/I/51k9fvr+tML.js?AUIClients/CardJsRuntimeBuzzCopyBuild:55:83)
+    at Object.next (https://m.media-amazon.com/images/I/51k9fvr+tML.js?AUIClients/CardJsRuntimeBuzzCopyBuild:53:369)
+    at m (https://m.media-amazon.com/images/I/51k9fvr+tML.js?AUIClients/CardJsRuntimeBuzzCopyBuild:53:152)
+[   14688ms] [WARNING] VIDEOJS: WARN: Using hls options is deprecated. Use vhs instead. @ https://m.media-amazon.com/images/I/31NffgTEMJL._RC%7C01x4giTy+uL.js,01r9LpT6pbL.js,41NWBkfooBL.js,11QfrzttlqL.js,91VXiFQ1TCL.js,01ELLYeIOkL.js_.js?AUIClients/Brila:491
+[   14744ms] [WARNING] VIDEOJS: WARN: Using hls options is deprecated. Use vhs instead. @ https://m.media-amazon.com/images/I/31NffgTEMJL._RC%7C01x4giTy+uL.js,01r9LpT6pbL.js,41NWBkfooBL.js,11QfrzttlqL.js,91VXiFQ1TCL.js,01ELLYeIOkL.js_.js?AUIClients/Brila:491
+[   14778ms] [WARNING] VIDEOJS: WARN: Using hls options is deprecated. Use vhs instead. @ https://m.media-amazon.com/images/I/31NffgTEMJL._RC%7C01x4giTy+uL.js,01r9LpT6pbL.js,41NWBkfooBL.js,11QfrzttlqL.js,91VXiFQ1TCL.js,01ELLYeIOkL.js_.js?AUIClients/Brila:491
+[   14837ms] [WARNING] VIDEOJS: WARN: Using hls options is deprecated. Use vhs instead. @ https://m.media-amazon.com/images/I/31NffgTEMJL._RC%7C01x4giTy+uL.js,01r9LpT6pbL.js,41NWBkfooBL.js,11QfrzttlqL.js,91VXiFQ1TCL.js,01ELLYeIOkL.js_.js?AUIClients/Brila:491
+[   14876ms] [WARNING] VIDEOJS: WARN: Using hls options is deprecated. Use vhs instead. @ https://m.media-amazon.com/images/I/31NffgTEMJL._RC%7C01x4giTy+uL.js,01r9LpT6pbL.js,41NWBkfooBL.js,11QfrzttlqL.js,91VXiFQ1TCL.js,01ELLYeIOkL.js_.js?AUIClients/Brila:491
+[   14913ms] [WARNING] VIDEOJS: WARN: Using hls options is deprecated. Use vhs instead. @ https://m.media-amazon.com/images/I/31NffgTEMJL._RC%7C01x4giTy+uL.js,01r9LpT6pbL.js,41NWBkfooBL.js,11QfrzttlqL.js,91VXiFQ1TCL.js,01ELLYeIOkL.js_.js?AUIClients/Brila:491

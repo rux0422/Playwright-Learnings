@@ -1,0 +1,58 @@
+[    1007ms] [LOG] [NoriLogger] Initialized successfully @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:26
+[    1055ms] [ERROR] [SushiLogger] Logger not initialized, performance not logged for: asinImageRender @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:26
+[    1055ms] [ERROR] [SushiLogger] Logger not initialized, performance not logged for: asinImageRender @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:26
+[    1060ms] [LOG] [NoriLogger] Initialized successfully @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:26
+[    1078ms] [ERROR] [SushiLogger] Logger not initialized, performance not logged for: asinImageRender @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:26
+[    1079ms] [ERROR] [SushiLogger] Logger not initialized, performance not logged for: asinImageRender @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:26
+[    1097ms] [ERROR] Failed to load resource: net::ERR_TRUST_TOKEN_OPERATION_FAILED @ https://www.amazon.com/tt/i:0
+[    1153ms] [LOG] [NoriLogger] Initialized successfully @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:26
+[    1156ms] [WARNING] [NoriLogger] Logger, campaignElement, or campaignID not available for performance tracking @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:26
+[    1156ms] [WARNING] [NoriLogger] Logger, campaignElement, or campaignID not available for performance tracking @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:26
+[    1186ms] [LOG] [NoriLogger] Initialized successfully @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:26
+[    1187ms] [ERROR] [SushiLogger] Logger not initialized, performance not logged for: asinImageRender @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:26
+[    1188ms] [ERROR] [SushiLogger] Logger not initialized, performance not logged for: asinImageRender @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:26
+[    1188ms] [ERROR] [SushiLogger] Logger not initialized, performance not logged for: asinImageRender @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:26
+[    1188ms] [ERROR] [SushiLogger] Logger not initialized, performance not logged for: asinImageRender @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:26
+[    1193ms] [LOG] [NoriLogger] Initialized successfully @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:26
+[    1197ms] [ERROR] [SushiLogger] Logger not initialized, truncation not logged @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:26
+[    1199ms] [ERROR] [SushiLogger] Logger not initialized, performance not logged for: asinImageRender @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:26
+[    1200ms] [ERROR] [SushiLogger] Logger not initialized, performance not logged for: asinImageRender @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:26
+[    1200ms] [ERROR] [NoriLogger] [WARN] DSPClientStrategy NoriLogger: Timer for asinImageRender already exists. @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:10
+[    1201ms] [ERROR] [SushiLogger] Logger not initialized, truncation not logged @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:26
+[    1224ms] [ERROR] [NoriLogger] [WARN] DSPClientStrategy NoriLogger: Timer for fontsRender already exists. @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:10
+[    1235ms] [ERROR] [SushiLogger] Logger not initialized, performance not logged for: asinImageRender @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:26
+[    1235ms] [ERROR] [SushiLogger] Logger not initialized, performance not logged for: asinImageRender @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:26
+[    1259ms] [ERROR] [SushiLogger] Logger not initialized, truncation not logged @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:26
+[    1292ms] [ERROR] [SushiLogger] Logger not initialized, truncation not logged @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:26
+[    5678ms] [ERROR] [NoriLogger] [WARN] DSPClientStrategy No events to send to endpoint @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:10
+[    5685ms] [ERROR] [NoriLogger] [WARN] DSPClientStrategy No events to send to endpoint @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:10
+[    5692ms] [ERROR] [NoriLogger] [WARN] DSPClientStrategy No events to send to endpoint @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:10
+[    5706ms] [ERROR] [NoriLogger] [WARN] DSPClientStrategy No events to send to endpoint @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:10
+[    5731ms] [ERROR] [NoriLogger] [WARN] DSPClientStrategy No events to send to endpoint @ https://m.media-amazon.com/images/I/B1EMOmbiwmL.js:10
+[    5889ms] [ERROR] Failed to load resource: net::ERR_TRUST_TOKEN_OPERATION_FAILED @ https://www.amazon.com/tt/i:0
+[    5967ms] TypeError: b.cardModuleFactory is not a function
+    at https://m.media-amazon.com/images/I/51k9fvr+tML.js?AUIClients/CardJsRuntimeBuzzCopyBuild:17:429
+    at d (https://m.media-amazon.com/images/I/51k9fvr+tML.js?AUIClients/CardJsRuntimeBuzzCopyBuild:55:83)
+    at Object.next (https://m.media-amazon.com/images/I/51k9fvr+tML.js?AUIClients/CardJsRuntimeBuzzCopyBuild:53:369)
+    at m (https://m.media-amazon.com/images/I/51k9fvr+tML.js?AUIClients/CardJsRuntimeBuzzCopyBuild:53:152)
+[    5969ms] TypeError: b.cardModuleFactory is not a function
+    at https://m.media-amazon.com/images/I/51k9fvr+tML.js?AUIClients/CardJsRuntimeBuzzCopyBuild:17:429
+    at d (https://m.media-amazon.com/images/I/51k9fvr+tML.js?AUIClients/CardJsRuntimeBuzzCopyBuild:55:83)
+    at Object.next (https://m.media-amazon.com/images/I/51k9fvr+tML.js?AUIClients/CardJsRuntimeBuzzCopyBuild:53:369)
+    at m (https://m.media-amazon.com/images/I/51k9fvr+tML.js?AUIClients/CardJsRuntimeBuzzCopyBuild:53:152)
+[    5969ms] TypeError: b.cardModuleFactory is not a function
+    at https://m.media-amazon.com/images/I/51k9fvr+tML.js?AUIClients/CardJsRuntimeBuzzCopyBuild:17:429
+    at d (https://m.media-amazon.com/images/I/51k9fvr+tML.js?AUIClients/CardJsRuntimeBuzzCopyBuild:55:83)
+    at Object.next (https://m.media-amazon.com/images/I/51k9fvr+tML.js?AUIClients/CardJsRuntimeBuzzCopyBuild:53:369)
+    at m (https://m.media-amazon.com/images/I/51k9fvr+tML.js?AUIClients/CardJsRuntimeBuzzCopyBuild:53:152)
+[    6139ms] TypeError: b.cardModuleFactory is not a function
+    at https://m.media-amazon.com/images/I/51k9fvr+tML.js?AUIClients/CardJsRuntimeBuzzCopyBuild:17:429
+    at d (https://m.media-amazon.com/images/I/51k9fvr+tML.js?AUIClients/CardJsRuntimeBuzzCopyBuild:55:83)
+    at Object.next (https://m.media-amazon.com/images/I/51k9fvr+tML.js?AUIClients/CardJsRuntimeBuzzCopyBuild:53:369)
+    at m (https://m.media-amazon.com/images/I/51k9fvr+tML.js?AUIClients/CardJsRuntimeBuzzCopyBuild:53:152)
+[    6685ms] [WARNING] VIDEOJS: WARN: Using hls options is deprecated. Use vhs instead. @ https://m.media-amazon.com/images/I/31NffgTEMJL._RC%7C01x4giTy+uL.js,01r9LpT6pbL.js,41NWBkfooBL.js,11QfrzttlqL.js,91VXiFQ1TCL.js,01ELLYeIOkL.js_.js?AUIClients/Brila:491
+[    6703ms] [WARNING] VIDEOJS: WARN: Using hls options is deprecated. Use vhs instead. @ https://m.media-amazon.com/images/I/31NffgTEMJL._RC%7C01x4giTy+uL.js,01r9LpT6pbL.js,41NWBkfooBL.js,11QfrzttlqL.js,91VXiFQ1TCL.js,01ELLYeIOkL.js_.js?AUIClients/Brila:491
+[    6715ms] [WARNING] VIDEOJS: WARN: Using hls options is deprecated. Use vhs instead. @ https://m.media-amazon.com/images/I/31NffgTEMJL._RC%7C01x4giTy+uL.js,01r9LpT6pbL.js,41NWBkfooBL.js,11QfrzttlqL.js,91VXiFQ1TCL.js,01ELLYeIOkL.js_.js?AUIClients/Brila:491
+[    6740ms] [WARNING] VIDEOJS: WARN: Using hls options is deprecated. Use vhs instead. @ https://m.media-amazon.com/images/I/31NffgTEMJL._RC%7C01x4giTy+uL.js,01r9LpT6pbL.js,41NWBkfooBL.js,11QfrzttlqL.js,91VXiFQ1TCL.js,01ELLYeIOkL.js_.js?AUIClients/Brila:491
+[    6751ms] [WARNING] VIDEOJS: WARN: Using hls options is deprecated. Use vhs instead. @ https://m.media-amazon.com/images/I/31NffgTEMJL._RC%7C01x4giTy+uL.js,01r9LpT6pbL.js,41NWBkfooBL.js,11QfrzttlqL.js,91VXiFQ1TCL.js,01ELLYeIOkL.js_.js?AUIClients/Brila:491
+[    6760ms] [WARNING] VIDEOJS: WARN: Using hls options is deprecated. Use vhs instead. @ https://m.media-amazon.com/images/I/31NffgTEMJL._RC%7C01x4giTy+uL.js,01r9LpT6pbL.js,41NWBkfooBL.js,11QfrzttlqL.js,91VXiFQ1TCL.js,01ELLYeIOkL.js_.js?AUIClients/Brila:491
